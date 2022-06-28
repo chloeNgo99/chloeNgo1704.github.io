@@ -262,7 +262,7 @@
     top: 100px;
     height: 260px;
     display: grid;
-    grid-gap: 5em;
+    grid-gap: 8em;
     grid-template-columns: repeat(3, 250px);
 
   }
