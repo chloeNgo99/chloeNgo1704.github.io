@@ -281,7 +281,7 @@
     min-width: 1050px;
     position: relative;
     grid-gap: 10em;
-    grid-template-columns: repeat(auto-fit,minmax(250px, auto));
+    grid-template-columns: repeat(auto-fit,220px);
   }
 
   .icon1DesBox1{
